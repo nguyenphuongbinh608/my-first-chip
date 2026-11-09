@@ -1,9 +1,11 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      # Project title
-  author:       ""      # Your name
+  title:        "My First Verilog Gate"      # Project title
+  author:       "Nguyen Phuong Binh"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Mach cong AND don gian"      # One line description of what your project does
+  how_it_works: "Su dung cong AND ket hop 2 dau va uin[0] va uin[1]"
+  how_to_test:  "Bat 2 cong tac ui_in[0] va ui_in[1] de den uo_out[0] sang"
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
