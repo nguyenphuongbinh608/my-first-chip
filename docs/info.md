@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Su dung cong AND ket hop 2 dau vao ui_in[0] va ui_in[1].
 
 ## How to test
 
-Explain how to use your project
+Bat 2 cong tac ui_in[0] va ui_in[1] de den uo_out[0] sang.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+List external hardware needed if applicable.
